@@ -1,0 +1,15 @@
+.navbar-brand
+{
+    padding-left: 12px;
+}
+.logo
+{
+    width: 62px;
+    height: 50px;
+    padding-left: 12px;
+}
+.btn
+{
+    background-color: green;
+    border: 1px solid #fff;
+}
