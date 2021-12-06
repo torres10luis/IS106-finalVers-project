@@ -1,0 +1,28 @@
+
+.breadcrumb-item A
+{
+    color: #6876DF;
+}
+.progress-bar
+{
+    background-color: #6876DF;
+}
+.mb-0 A
+{
+    color: #6876DF;
+}
+.btn-primary
+{
+    background-color: #6876DF;
+}
+.btn-outline-primary
+{
+    color: #6876DF;
+    border: 1px solid #6876DF;
+}
+.btn-outline-primary:hover
+{
+    color: #fff;
+    background-color: #6876DF;
+    border: 1px solid #6876DF;
+}
